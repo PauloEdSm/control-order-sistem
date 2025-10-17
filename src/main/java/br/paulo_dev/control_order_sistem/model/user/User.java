@@ -12,4 +12,5 @@ public class User {
     private Long id;
     private String name;
     private BigDecimal creditBalance;
+    private String userPhysicalAddress;
 }
